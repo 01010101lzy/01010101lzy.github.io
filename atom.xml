@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>被遗忘的角落</title>
+  <subtitle>没有人记得这里的星空是多么美丽</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://01010101lzy.github.io/"/>
+  <updated>2017-08-28T13:52:59.661Z</updated>
+  <id>http://01010101lzy.github.io/</id>
+  
+  <author>
+    <name>Lynz Rand</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About</title>
+    <link href="http://01010101lzy.github.io/About/"/>
+    <id>http://01010101lzy.github.io/About/</id>
+    <published>2017-08-28T12:00:00.000Z</published>
+    <updated>2017-08-28T13:52:59.661Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>某航大学生。男。</p>
+<p>编程苦手。</p>
+<h2 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h2><p>邮箱 plok314159265@163.com  </p>
+<ul>
+<li>年少无知的时候写的奇怪地址</li>
+</ul>
+<p>微博 <a href="weibo.com/Lithane">@LynzRand</a>  </p>
+<ul>
+<li>也就这个还正常点</li>
+</ul>
+<p>贴吧 <a href="https://tieba.baidu.com/home/main?un=01010101lzy" target="_blank" rel="external">@01010101lzy</a></p>
+<ul>
+<li>坎吧不著名摸鱼小吧主</li>
+</ul>
+<p>哔哩哔哩 <a href="https://space.bilibili.com/779289" target="_blank" rel="external">@Lynz_</a>  </p>
+<ul>
+<li>视频全是黑历史</li>
+</ul>
+<p>QQ ◼◼◼◼◼◼◼◼◼◼  </p>
+<ul>
+<li>你以为我会告诉你？</li>
+</ul>
+<h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2><p>有不少想法，于是开了不少坑，然后就没时间了……</p>
+<p>我开的坑：</p>
+<ul>
+<li>[<strong>填坑</strong>]  <strong><a href="https://github.com/01010101lzy/01010101lzy.github.io" target="_blank" rel="external">01010101lzy.github.io</a></strong> - 你现在在看的这个网站 - HTML</li>
+<li>[<strong>填坑</strong>]  <strong><a href="https://github.com/01010101lzy/DiariumUWP" target="_blank" rel="external">DiariumUWP</a></strong> - 《你的名字》电影里 My Diary 应用的一个粗糙的复制品 - UWP</li>
+<li>[占坑]  <strong><a href="https://github.com/01010101lzy/B9-PWings-Fork-old" target="_blank" rel="external">B9 Procedural Wings Modified</a></strong> - B9PW魔改版 - KSP</li>
+<li>[占坑]  <strong><a href="https://github.com/01010101lzy/ThistleTint" target="_blank" rel="external">ThistleTint</a></strong> - 百度贴吧概念客户端，没API我要死了 - UWP</li>
+<li>[弃坑]  <strong><a href="https://github.com/01010101lzy/Traillix" target="_blank" rel="external">Traillix</a></strong> - 前测试平台 - UWP</li>
+</ul>
+<p>别人开的坑：</p>
+<ul>
+<li>[<strong>填坑</strong>]  <strong><a href="https://github.com/Icecovery/Comfortable-Landing" target="_blank" rel="external">Comfortable Landing</a></strong> - 返回舱专用反推火箭和气囊 - KSP - by <a href="https://github.com/Icecovery" target="_blank" rel="external">Icecovery</a></li>
+<li>[占坑] <strong><a href="https://github.com/Wavechaser/ChinesePackContinued" target="_blank" rel="external">Chinese Pack Continued</a></strong> - 中国火箭包，已被ICSP吞并 - KSP - by <a href="https://github.com/Wavechaser" target="_blank" rel="external">Wavechaser</a></li>
+</ul>
+<!-- Website appendix  -->
+<!-- /Website appendix -->]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h2&gt;&lt;p&gt;某航大学生。男。&lt;/p&gt;
+&lt;p&gt;编程苦手。&lt;/p&gt;
+&lt;h2 id=&quot;联系我&quot;&gt;&lt;a href=&quot;#联系我&quot; class=&quot;heade
+    
+    </summary>
+    
+    
+      <category term="Info" scheme="http://01010101lzy.github.io/tags/Info/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction</title>
+    <link href="http://01010101lzy.github.io/Introduction/"/>
+    <id>http://01010101lzy.github.io/Introduction/</id>
+    <published>2017-08-28T10:31:56.000Z</published>
+    <updated>2017-08-28T10:53:46.959Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hmmmm… </p>
+<p>Nothing interest here.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hmmmm… &lt;/p&gt;
+&lt;p&gt;Nothing interest here.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
