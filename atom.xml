@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-08-29T07:44:16.295Z</updated>
+  <updated>2017-08-29T12:40:06.411Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -19,23 +19,35 @@
     <title>Diarium_Roadmap</title>
     <link href="http://01010101lzy.github.io/Diarium-Roadmap/"/>
     <id>http://01010101lzy.github.io/Diarium-Roadmap/</id>
-    <published>2017-08-28T14:06:27.000Z</published>
-    <updated>2017-08-29T07:44:16.295Z</updated>
+    <published>2017-08-29T14:06:27.000Z</published>
+    <updated>2017-08-29T12:40:06.411Z</updated>
     
-    <content type="html"><![CDATA[<p>关于Diarium这个项目的一些杂七杂八的东西</p>
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/01010101lzy/DiariumUWP/master/Diarium/Assets/RawPics/Icon_Wide_Colored.png" alt=""></p>
+<p>关于Diarium这个项目的一些杂七杂八的东西</p>
+<p>原帖发布于2017-08-28</p>
 <h2 id="创建原因"><a href="#创建原因" class="headerlink" title="创建原因"></a>创建原因</h2><p>说实话这玩意真的就是我脑子一热搞出来的……</p>
 <p>……就是看见《你名》里面那个应用然后觉得“啊真好啊”然后就……</p>
 <p>……现在光是编程就能把我整死，亏我还是计算机系的呢（guna你个大一新生在这叨叨个啥</p>
-<h2 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h2><p>按照电影里的设定以及<a href="https://github.com/DaXiaK/MyDiary" target="_blank" rel="external">@DaXia的分析</a>，存储的“日记”应当有以下参数：</p>
+<h2 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h2><p>按照电影里的设定以及<a href="https://github.com/DaXiaK/MyDiary" target="_blank" rel="external">@DaXia的分析</a>，应当存储有以下参数的“日记”：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">Class Diary</div><div class="line">&#123;</div><div class="line">	string Title;	//标题</div><div class="line">	int Date;		//日期</div><div class="line">	int Weather;	//天气</div><div class="line">	int Mood;		//心情</div><div class="line">	string Context;	//正文（Markdown）</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>&lt;待补完&gt;</p>
+<p>此外还要做：</p>
+<ul>
+<li>备忘录</li>
+<li>日历翻页器（有什么实际用途吗？）</li>
+<li>云同步</li>
+<li>通讯录？</li>
+</ul>
+<p>目前的版本更新计划是：</p>
+<p><strong>Alpha</strong><br><strong>0.1.x</strong> 基础日记功能</p>
+<p><strong>Beta</strong><br><strong>0.2.x</strong> 加入日历翻页器<br><strong>0.3.x</strong> 加入备忘录<br><strong>0.4.x</strong> 开启云同步/手动同步  </p>
+<p><strong>Release</strong><br><strong>1.0.x</strong> 整体优化&amp;适配Fluent Design<br><strong>1.2.x</strong> 适配列表/正文双栏显示<br><strong>1.5.x</strong> 备忘录pin功能？</p>
+<p>## </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;关于Diarium这个项目的一些杂七杂八的东西&lt;/p&gt;
-&lt;h2 id=&quot;创建原因&quot;&gt;&lt;a href=&quot;#创建原因&quot; class=&quot;headerlink&quot; title=&quot;创建原因&quot;&gt;&lt;/a&gt;创建原因&lt;/h2&gt;&lt;p&gt;说实话这玩意真的就是我脑子一热搞出来的……&lt;/p&gt;
-&lt;p&gt;……
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/01010101lzy/DiariumUWP/master/Diarium/Assets/RawPics/Icon_Wide_Colored.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;关于
     
     </summary>
     
