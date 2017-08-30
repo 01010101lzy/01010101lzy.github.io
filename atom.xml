@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-08-30T07:31:54.034Z</updated>
+  <updated>2017-08-30T07:53:25.794Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -16,11 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Life as a KSPer</title>
+    <link href="http://01010101lzy.github.io/As-an-KSPer/"/>
+    <id>http://01010101lzy.github.io/As-an-KSPer/</id>
+    <published>2017-08-30T08:00:00.000Z</published>
+    <updated>2017-08-30T07:53:25.794Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>&lt;待补完&gt;</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;&amp;lt;待补完&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+    
+      <category term="KSP" scheme="http://01010101lzy.github.io/tags/KSP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Diarium_Roadmap</title>
     <link href="http://01010101lzy.github.io/Diarium-Roadmap/"/>
     <id>http://01010101lzy.github.io/Diarium-Roadmap/</id>
     <published>2017-08-29T14:06:27.000Z</published>
-    <updated>2017-08-30T07:31:54.034Z</updated>
+    <updated>2017-08-30T07:53:15.547Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>关于Diarium这个项目的一些杂七杂八的东西</p>
@@ -56,7 +82,7 @@
     </summary>
     
     
-      <category term="Diarium, UWP" scheme="http://01010101lzy.github.io/tags/Diarium-UWP/"/>
+      <category term="Diarium; UWP" scheme="http://01010101lzy.github.io/tags/Diarium-UWP/"/>
     
   </entry>
   
