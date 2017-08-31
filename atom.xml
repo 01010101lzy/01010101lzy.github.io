@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-08-30T08:28:57.222Z</updated>
+  <updated>2017-08-31T09:39:48.556Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Happy Birthday Hatsune Miku</title>
+    <link href="http://01010101lzy.github.io/Miku-Birthday/"/>
+    <id>http://01010101lzy.github.io/Miku-Birthday/</id>
+    <published>2017-08-30T16:00:00.000Z</published>
+    <updated>2017-08-31T09:39:48.556Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="uploads/89.png" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;uploads/89.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Miku" scheme="http://01010101lzy.github.io/tags/Miku/"/>
+    
+      <category term="Pics" scheme="http://01010101lzy.github.io/tags/Pics/"/>
+    
+  </entry>
   
   <entry>
     <title>Diarium_Roadmap</title>
