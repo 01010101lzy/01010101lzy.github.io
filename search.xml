@@ -3,14 +3,16 @@
   
     
     <entry>
-      <title><![CDATA[Within.UWP]]></title>
+      <title><![CDATA[Within.UWP.temp]]></title>
       <url>/2017/Within.UWP/</url>
       <content type="html"><![CDATA[<p><img src="http://01010101lzy.github.io/images/2017-09/Within.UWP_Wide.png" alt=""></p>
 <blockquote>
 <p>既然咱要插一脚同袍app<br>那当然是要搞事情啦——</p>
 </blockquote>
 <a id="more"></a>
-<p><strong>企划书desu——</strong></p>
+<p><strong>以下是不正经的计划书——</strong></p>
+<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p><a href="http://blog.withinyou.cn/" target="_blank" rel="external">同袍(WithinYou)</a>是北航一群学长制作的<strong>北航专用</strong>的课表、成绩查询app。</p>
+<p>本计划将制作该app的<strong>UWP</strong>版本，主要面对Windows10电脑用户，并将提供一定的推送功能。</p>
 <h2 id="App规划"><a href="#App规划" class="headerlink" title="App规划"></a>App规划</h2><p>基础功能</p>
 <ul>
 <li>查课表（5/7C x 12R，列数随屏幕宽度变化)</li>
@@ -38,12 +40,12 @@
 <li style="list-style: none"><input type="checkbox"> 推送</li>
 </ul>
 <h2 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h2><ul>
-<li style="list-style: none"><input type="checkbox"> <code>Page</code> 主页（课表）<ul>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 课程表<ul>
 <li style="list-style: none"><input type="checkbox"> <code>Flyout</code> 课表详细信息</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 总课表</li>
 </ul>
 </li>
-<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试时间</li>
-<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试成绩</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试时间/成绩</li>
 <li style="list-style: none"><input type="checkbox"> <code>Page</code> 个人资料</li>
 <li style="list-style: none"><input type="checkbox"> <code>Page</code> 设置<ul>
 <li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 设置</li>
@@ -54,6 +56,7 @@
 </ul>
 <h2 id="程序托管"><a href="#程序托管" class="headerlink" title="程序托管"></a>程序托管</h2><p>暂定闭源项目，可能会托管到<a href="http://coding.net/" target="_blank" rel="external">Coding.net</a>上</p>
 <h2 id="其他计划"><a href="#其他计划" class="headerlink" title="其他计划"></a>其他计划</h2><p><a href="https://github.com/dringz/" target="_blank" rel="external">Dring</a>可能会做一个Webapp</p>
+<!-- Link Section -->
 <!-- (c)2017 Lynz Rand, All Rights Reserved -->
 ]]></content>
       
