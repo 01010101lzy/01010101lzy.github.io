@@ -112,7 +112,7 @@
 <meta property="og:site_name" content="被遗忘的海滩">
 <meta property="og:description" content="既然咱要插一脚同袍app那当然是要搞事情啦——">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2017-09-27T13:55:22.045Z">
+<meta property="og:updated_time" content="2017-09-28T10:54:48.415Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Within.UWP">
 <meta name="twitter:description" content="既然咱要插一脚同袍app那当然是要搞事情啦——">
@@ -354,6 +354,51 @@
 <p>既然咱要插一脚同袍app<br>那当然是要搞事情啦——</p>
 </blockquote>
 <a id="more"></a>
+<p><strong>企划书desu——</strong></p>
+<h2 id="App规划"><a href="#App规划" class="headerlink" title="App规划"></a>App规划</h2><p>基础功能</p>
+<ul>
+<li>查课表（5/7C x 12R，列数随屏幕宽度变化)</li>
+<li>查考试/成绩</li>
+<li>个人资料</li>
+<li>反馈</li>
+</ul>
+<p>其他功能（暂定）</p>
+<ul>
+<li>课表推送（下节课是……，在……教室）</li>
+<li>Hey Cortana, 我的下节课是啥？</li>
+</ul>
+<h2 id="进度条"><a href="#进度条" class="headerlink" title="进度条"></a>进度条</h2><ul>
+<li style="list-style: none"><input type="checkbox"> 与现有团队达成合作</li>
+<li style="list-style: none"><input type="checkbox"> 基础UI</li>
+<li style="list-style: none"><input type="checkbox"> 与后端通信</li>
+<li style="list-style: none"><input type="checkbox"> 基础课表</li>
+<li style="list-style: none"><input type="checkbox"> 课程详细信息(Flyout控件)</li>
+<li style="list-style: none"><input type="checkbox"> 自适应UI</li>
+<li style="list-style: none"><input type="checkbox"> 考试/成绩查询</li>
+<li style="list-style: none"><input type="checkbox"> 个人资料查询</li>
+<li style="list-style: none"><input type="checkbox"> 反馈系统</li>
+<li style="list-style: none"><input type="checkbox"> 设置页</li>
+<li style="list-style: none"><input type="checkbox"> Cortana</li>
+<li style="list-style: none"><input type="checkbox"> 推送</li>
+</ul>
+<h2 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h2><ul>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 主页（课表）<ul>
+<li style="list-style: none"><input type="checkbox"> <code>Flyout</code> 课表详细信息</li>
+</ul>
+</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试时间</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试成绩</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 个人资料</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 设置<ul>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 设置</li>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 关于</li>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 反馈</li>
+</ul>
+</li>
+</ul>
+<h2 id="程序托管"><a href="#程序托管" class="headerlink" title="程序托管"></a>程序托管</h2><p>暂定闭源项目，可能会托管到<a href="http://coding.net/" target="_blank" rel="external">Coding.net</a>上</p>
+<h2 id="其他计划"><a href="#其他计划" class="headerlink" title="其他计划"></a>其他计划</h2><p><a href="https://github.com/dringz/" target="_blank" rel="external">Dring</a>可能会做一个Webapp</p>
+<!-- (c)2017 Lynz Rand, All Rights Reserved -->
 
       
     </div>
@@ -444,8 +489,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview sidebar-panel sidebar-panel-active">
+      <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/images/avatar.jpg"
@@ -557,6 +611,22 @@
 
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#App规划"><span class="nav-number">1.</span> <span class="nav-text">App规划</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#进度条"><span class="nav-number">2.</span> <span class="nav-text">进度条</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#页面结构"><span class="nav-number">3.</span> <span class="nav-text">页面结构</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#程序托管"><span class="nav-number">4.</span> <span class="nav-text">程序托管</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#其他计划"><span class="nav-number">5.</span> <span class="nav-text">其他计划</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-09-27T13:55:22.045Z</updated>
+  <updated>2017-09-28T10:54:48.415Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -20,12 +20,57 @@
     <link href="http://01010101lzy.github.io/2017/Within.UWP/"/>
     <id>http://01010101lzy.github.io/2017/Within.UWP/</id>
     <published>2017-09-27T13:00:00.000Z</published>
-    <updated>2017-09-27T13:55:22.045Z</updated>
+    <updated>2017-09-28T10:54:48.415Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>既然咱要插一脚同袍app<br>那当然是要搞事情啦——</p>
 </blockquote>
 <a id="more"></a>
+<p><strong>企划书desu——</strong></p>
+<h2 id="App规划"><a href="#App规划" class="headerlink" title="App规划"></a>App规划</h2><p>基础功能</p>
+<ul>
+<li>查课表（5/7C x 12R，列数随屏幕宽度变化)</li>
+<li>查考试/成绩</li>
+<li>个人资料</li>
+<li>反馈</li>
+</ul>
+<p>其他功能（暂定）</p>
+<ul>
+<li>课表推送（下节课是……，在……教室）</li>
+<li>Hey Cortana, 我的下节课是啥？</li>
+</ul>
+<h2 id="进度条"><a href="#进度条" class="headerlink" title="进度条"></a>进度条</h2><ul>
+<li style="list-style: none"><input type="checkbox"> 与现有团队达成合作</li>
+<li style="list-style: none"><input type="checkbox"> 基础UI</li>
+<li style="list-style: none"><input type="checkbox"> 与后端通信</li>
+<li style="list-style: none"><input type="checkbox"> 基础课表</li>
+<li style="list-style: none"><input type="checkbox"> 课程详细信息(Flyout控件)</li>
+<li style="list-style: none"><input type="checkbox"> 自适应UI</li>
+<li style="list-style: none"><input type="checkbox"> 考试/成绩查询</li>
+<li style="list-style: none"><input type="checkbox"> 个人资料查询</li>
+<li style="list-style: none"><input type="checkbox"> 反馈系统</li>
+<li style="list-style: none"><input type="checkbox"> 设置页</li>
+<li style="list-style: none"><input type="checkbox"> Cortana</li>
+<li style="list-style: none"><input type="checkbox"> 推送</li>
+</ul>
+<h2 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h2><ul>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 主页（课表）<ul>
+<li style="list-style: none"><input type="checkbox"> <code>Flyout</code> 课表详细信息</li>
+</ul>
+</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试时间</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 考试成绩</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 个人资料</li>
+<li style="list-style: none"><input type="checkbox"> <code>Page</code> 设置<ul>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 设置</li>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 关于</li>
+<li style="list-style: none"><input type="checkbox"> <code>PivotItem</code> 反馈</li>
+</ul>
+</li>
+</ul>
+<h2 id="程序托管"><a href="#程序托管" class="headerlink" title="程序托管"></a>程序托管</h2><p>暂定闭源项目，可能会托管到<a href="http://coding.net/" target="_blank" rel="external">Coding.net</a>上</p>
+<h2 id="其他计划"><a href="#其他计划" class="headerlink" title="其他计划"></a>其他计划</h2><p><a href="https://github.com/dringz/" target="_blank" rel="external">Dring</a>可能会做一个Webapp</p>
+<!-- (c)2017 Lynz Rand, All Rights Reserved -->
 ]]></content>
     
     <summary type="html">
@@ -116,7 +161,7 @@
     <link href="http://01010101lzy.github.io/2017/About/"/>
     <id>http://01010101lzy.github.io/2017/About/</id>
     <published>2017-08-28T12:00:00.000Z</published>
-    <updated>2017-08-30T08:33:10.000Z</updated>
+    <updated>2017-09-27T13:57:51.654Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这里大概有你想知道的所有内容。</p>
@@ -146,7 +191,8 @@
 <li>[占坑] <strong><a href="https://github.com/Wavechaser/ChinesePackContinued" target="_blank" rel="external">Chinese Pack Continued</a></strong> - 中国火箭包，已被ICSP吞并 - KSP - by <a href="https://github.com/Wavechaser" target="_blank" rel="external">Wavechaser</a></li>
 </ul>
 <!-- Website appendix  -->
-<!-- /Website appendix -->]]></content>
+<!-- /Website appendix -->
+]]></content>
     
     <summary type="html">
     
