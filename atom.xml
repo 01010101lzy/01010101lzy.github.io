@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-09-28T13:55:38.329Z</updated>
+  <updated>2017-10-01T09:19:43.522Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://01010101lzy.github.io/2017/Within.UWP/"/>
     <id>http://01010101lzy.github.io/2017/Within.UWP/</id>
     <published>2017-09-27T13:00:00.000Z</published>
-    <updated>2017-09-28T13:55:38.329Z</updated>
+    <updated>2017-10-01T09:19:43.522Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://01010101lzy.github.io/images/2017-09/Within.UWP_Wide.png" alt=""></p>
 <blockquote>
@@ -29,7 +29,7 @@
 <a id="more"></a>
 <p><strong>以下是不正经的计划书——</strong></p>
 <h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p><a href="http://blog.withinyou.cn/" target="_blank" rel="external">同袍(WithinYou)</a>是北航一群学长制作的<strong>北航专用</strong>的课表、成绩查询app。</p>
-<p>本计划将制作该app的<strong>UWP</strong>版本，主要面对Windows10电脑用户，并将提供一定的推送功能。</p>
+<p>本计划将制作该app的<strong>UWP</strong>版本，主要面对Windows10电脑用户，并将提供一定的推送功能。后期可能会推送Win10M版本<br>……不过到那个时候再说吧。</p>
 <h2 id="App规划"><a href="#App规划" class="headerlink" title="App规划"></a>App规划</h2><p>基础功能</p>
 <ul>
 <li>查课表（5/7C x 12R，列数随屏幕宽度变化)</li>
@@ -43,7 +43,7 @@
 <li>Hey Cortana, 我的下节课是啥？</li>
 </ul>
 <h2 id="进度条"><a href="#进度条" class="headerlink" title="进度条"></a>进度条</h2><ul>
-<li style="list-style: none"><input type="checkbox"> 与现有团队达成合作</li>
+<li style="list-style: none"><input type="checkbox" checked> 与现有团队达成合作<em>(sort of)</em></li>
 <li style="list-style: none"><input type="checkbox"> 基础UI</li>
 <li style="list-style: none"><input type="checkbox"> 与后端通信</li>
 <li style="list-style: none"><input type="checkbox"> 基础课表</li>
@@ -59,6 +59,7 @@
 <h2 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h2><ul>
 <li style="list-style: none"><input type="checkbox"> <code>Page</code> 课程表<ul>
 <li style="list-style: none"><input type="checkbox"> <code>Flyout</code> 课表详细信息</li>
+<li style="list-style: none"><input type="checkbox"> <code>Flyout</code> 周选择器</li>
 <li style="list-style: none"><input type="checkbox"> <code>Page</code> 总课表</li>
 </ul>
 </li>
@@ -73,6 +74,7 @@
 </ul>
 <h2 id="程序托管"><a href="#程序托管" class="headerlink" title="程序托管"></a>程序托管</h2><p>暂定闭源项目，可能会托管到<a href="http://coding.net/" target="_blank" rel="external">Coding.net</a>上</p>
 <h2 id="其他计划"><a href="#其他计划" class="headerlink" title="其他计划"></a>其他计划</h2><p><a href="https://github.com/dringz/" target="_blank" rel="external">Dring</a>可能会做一个Webapp</p>
+<p>##</p>
 <!-- Link Section -->
 <!-- (c)2017 Lynz Rand, All Rights Reserved -->
 ]]></content>
@@ -96,7 +98,7 @@
     <link href="http://01010101lzy.github.io/2017/Miku-Birthday/"/>
     <id>http://01010101lzy.github.io/2017/Miku-Birthday/</id>
     <published>2017-08-30T16:00:00.000Z</published>
-    <updated>2017-08-31T09:52:41.000Z</updated>
+    <updated>2017-08-31T09:52:41.149Z</updated>
     
     <content type="html"><![CDATA[<p><img src="01010101lzy.github.io/images/2017-08/89.png" alt=""></p>
 ]]></content>
@@ -120,7 +122,7 @@
     <link href="http://01010101lzy.github.io/2017/Diarium-Roadmap/"/>
     <id>http://01010101lzy.github.io/2017/Diarium-Roadmap/</id>
     <published>2017-08-29T14:06:27.000Z</published>
-    <updated>2017-08-30T08:28:57.000Z</updated>
+    <updated>2017-08-30T08:28:57.222Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>关于Diarium这个项目的一些杂七杂八的东西</p>
@@ -166,7 +168,7 @@
     <link href="http://01010101lzy.github.io/2017/About/"/>
     <id>http://01010101lzy.github.io/2017/About/</id>
     <published>2017-08-28T12:00:00.000Z</published>
-    <updated>2017-09-27T13:57:51.654Z</updated>
+    <updated>2017-10-01T09:18:13.518Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这里大概有你想知道的所有内容。</p>
@@ -184,6 +186,7 @@
 <h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2><p>有不少想法，于是开了不少坑，然后就没时间了……</p>
 <p>我开的坑：</p>
 <ul>
+<li>[开坑]  <strong>Within.UWP</strong> - 同袍APP UWP版 - UWP</li>
 <li>[<strong>填坑</strong>]  <strong><a href="https://github.com/01010101lzy/01010101lzy.github.io" target="_blank" rel="external">01010101lzy.github.io</a></strong> - 你现在在看的这个网站 - HTML</li>
 <li>[<strong>填坑</strong>]  <strong><a href="https://github.com/01010101lzy/DiariumUWP" target="_blank" rel="external">DiariumUWP</a></strong> - 《你的名字》电影里 My Diary 应用的一个粗糙的复制品 - UWP</li>
 <li>[占坑]  <strong><a href="https://github.com/01010101lzy/B9-PWings-Fork-old" target="_blank" rel="external">B9 Procedural Wings Modified</a></strong> - B9PW魔改版 - KSP</li>
@@ -218,7 +221,7 @@
     <link href="http://01010101lzy.github.io/2017/Introduction/"/>
     <id>http://01010101lzy.github.io/2017/Introduction/</id>
     <published>2017-08-28T10:31:56.000Z</published>
-    <updated>2017-08-30T08:18:38.000Z</updated>
+    <updated>2017-08-30T08:18:38.276Z</updated>
     
     <content type="html"><![CDATA[<p>这里是Lynz的一个个人博客站</p>
 <p>使用<a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="external">iissnan制作的NexT主题</a>，由Hexo博客引擎驱动。</p>
