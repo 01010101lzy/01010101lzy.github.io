@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://01010101lzy.github.io/"/>
-  <updated>2017-10-01T09:19:43.522Z</updated>
+  <updated>2017-11-29T08:16:40.314Z</updated>
   <id>http://01010101lzy.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你航，你航。</title>
+    <link href="http://01010101lzy.github.io/2017/Hanashi.01/"/>
+    <id>http://01010101lzy.github.io/2017/Hanashi.01/</id>
+    <published>2017-11-29T08:00:00.000Z</published>
+    <updated>2017-11-29T08:16:40.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>不要报密码的奥秘课。</p>
+<p>论文写死你。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不要报密码的奥秘课。&lt;/p&gt;
+&lt;p&gt;论文写死你。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="吐槽" scheme="http://01010101lzy.github.io/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>Within.UWP.temp</title>
